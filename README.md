@@ -1,7 +1,7 @@
 ## Hi,   I'm Chaeyoung Lim  🙌🏼
 
 ### 🙋‍♀️ About Me
-_BackEnd Engineer_
+_BackEnd Developer_
 - 구름톤 유니브 서울과학기술대학교 3기 백엔드 파트 개발자 ☁ ( 2024.07 ~ )
 - 멋쟁이사자처럼 서울과학기술대학교 12기 백엔드 파트 개발자 🦁 ( 2024.03 ~ )
 

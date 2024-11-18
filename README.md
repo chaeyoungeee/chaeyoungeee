@@ -21,7 +21,8 @@ _BackEnd Developer_
 - 서울과학기술대학교 IT 동아리 연합해커톤 SNUSTHON 2024 최우수상
 
 ### 💡 Projects
-- [Billage](https://github.com/9oormthonUniv-seoultech/PROJECT_TEAM_APP_BE0) : 서울과학기술대학교 강의실 대여 서비스 ( 2024.09 ~ 개발 진행 중 )
+- [Friend Doctor](https://github.com/Darakbang-EC-Hackerton/friend-doctor-backend.git) : 정신 건강을 위한 정기적 응원 문자 전송 및 감정 기록 서비스 ( 2024.11 ~ 2024.11 )
+- [Billage](https://github.com/9oormthonUniv-seoultech/PROJECT_TEAM_APP_BE0) : 서울과학기술대학교 강의실 대여 서비스 ( 2024.09 ~ 2024.11 )
 - [무한도전](https://github.com/SNUSTHON/TEAM3_BE) : 무기력증 극복을 위한 데일리 챌린지 서비스 ( 2024.09 ~ 2024.09 )
 - [요즘 머햐](https://github.com/LIKELION-TEAM4-HACKATHON/back-end) : 시니어 대상 여가 활동 추천 및 취미 기반 모임 매칭 서비스 ( 2024.06 ~ 2024.08 )
 - [Park in Seoul](https://github.com/chaeyoungeee/Park-In-Seoul) : 서울 공원 29곳의 실시간 데이터 제공 서비스 ( 2023.12 ~ 2023.12 )

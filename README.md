@@ -2,8 +2,9 @@
 
 ### 🙋‍♀️ About Me
 _BackEnd Developer_
-- 구름톤 유니브 서울과학기술대학교 3기 백엔드 파트 개발자 ☁ ( 2024.07 ~ 2024.12 )
-- 멋쟁이사자처럼 서울과학기술대학교 12기 백엔드 파트 개발자 🦁 ( 2024.03 ~ 2024.12 )
+- GDGoC SeoulTech 5기 백엔드 파트 ✨ ( 2025.09 ~ )
+- 구름톤 유니브 서울과학기술대학교 3기 백엔드 파트 ☁ ( 2024.07 ~ 2024.12 )
+- 멋쟁이사자처럼 서울과학기술대학교 12기 백엔드 파트 🦁 ( 2024.03 ~ 2024.12 )
 
 ### 🛠 Tech Stacks 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,7 +13,7 @@ _BackEnd Developer_
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)<br>
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 

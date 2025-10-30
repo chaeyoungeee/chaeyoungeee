@@ -11,7 +11,6 @@ _BackEnd Developer_
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)<br>
@@ -28,7 +27,6 @@ _BackEnd Developer_
 - [탄지](https://github.com/TanJi-LL/Tanji-Backend) : 디지털 탄소 배출 감소를 위한 게이미피케이션 기반 행동 유도 서비스 ( 2024.10 ~ 2024.12 )
 - [Friend Doctor](https://github.com/Darakbang-EC-Hackerton/friend-doctor-backend.git) : 정신 건강을 위한 정기적 응원 문자 전송 및 감정 기록 서비스 ( 2024.11 ~ 2024.11 )
 - [Billage](https://github.com/9oormthonUniv-seoultech/PROJECT_TEAM_APP_BE0) : 서울과학기술대학교 강의실 대여 서비스 ( 2024.09 ~ 2024.11 )
-- [무한도전](https://github.com/SNUSTHON/TEAM3_BE) : 무기력증 극복을 위한 데일리 챌린지 서비스 ( 2024.09 ~ 2024.09 )
 - [요즘 머햐](https://github.com/LIKELION-TEAM4-HACKATHON/back-end) : 시니어 대상 여가 활동 추천 및 취미 기반 모임 매칭 서비스 ( 2024.06 ~ 2024.08 )
 
 </div>

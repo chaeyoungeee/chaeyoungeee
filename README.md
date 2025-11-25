@@ -26,5 +26,4 @@ _BackEnd Developer_
 - [LocC: Local Creator](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_9_BE) : 지방의 힙한 청년 로컬 크리에이터 상품 큐레이션 서비스  ( 2024.11 - 2024.12 )
 - [탄지](https://github.com/TanJi-LL/Tanji-Backend) : 디지털 탄소 배출 감소를 위한 게이미피케이션 기반 행동 유도 서비스 ( 2024.10 - 2024.12 )
 - [Billage](https://github.com/9oormthonUniv-seoultech/PROJECT_TEAM_APP_BE0) : 서울과학기술대학교 강의실 대여 서비스 ( 2024.09 - 2024.11 )
-- [요즘 머햐](https://github.com/LIKELION-TEAM4-HACKATHON/back-end) : 시니어 대상 여가 활동 추천 및 취미 기반 모임 매칭 서비스 ( 2024.06 - 2024.08 )
 </div>

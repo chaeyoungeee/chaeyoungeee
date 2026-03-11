@@ -23,7 +23,7 @@ _BackEnd Developer_
 
 ### 💡 Projects
 - [사막](https://github.com/2026-QUAD-S-Team-2/samak-backend): AI 기반 채용 사기 예방 플랫폼 사막 (2026.01 - )
-- [스플릿티](https://github.com/Splitty-Dev/Splitty-Server) : 고물가 시대, 소규모 가구를 위한 대용량 제품 소분 거래 플랫폼 ( 2025.09 - )
+- [스플릿티](https://github.com/Splitty-Dev/Splitty-Server) : 고물가 시대, 소규모 가구를 위한 대용량 제품 소분 거래 플랫폼 ( 2025.09 - 2025.12 )
 - [탄지](https://github.com/TanJi-LL/Tanji-Backend) : 디지털 탄소 배출 감소를 위한 게이미피케이션 기반 행동 유도 서비스 ( 2024.10 - 2024.12 )
 - [Billage](https://github.com/9oormthonUniv-seoultech/PROJECT_TEAM_APP_BE0) : 서울과학기술대학교 강의실 대여 서비스 ( 2024.09 - 2024.11 )
 </div>

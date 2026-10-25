@@ -23,7 +23,7 @@
 - SQLD  |   한국데이터산업진흥원  |   2025.12
 
 ### Projects
-- [루게더](https://github.com/TripleS-soma/rougether-server): 개인 방 꾸미기·소셜 하우스 기반 공동체로 함께하는 루틴 관리 서비스 (2026.04 - )
+- [루게더](https://github.com/TripleS-soma/rougether-server): 개인 방 꾸미기·소셜 하우스 기반 공동체로 함께하는 루틴 관리 서비스 (2026.04 - 2026.08)
 - [리클로](https://github.com/DUYUTHON-team13/reclo-server): 의류 폐기물 감소를 위한 AI 스타일링 서비스 (2026.05 - 2026.05)
 - [사막](https://github.com/2026-QUAD-S-Team-2/samak-backend): 채용 사기 방지를 위한 AI 기반 채용 공고 분석 서비스 (2026.02 - 2026.06)
 - [스플릿티](https://github.com/Splitty-Dev/Splitty-Server) : 고물가 시대, 소규모 가구를 위한 대용량 제품 소분 거래 플랫폼 ( 2025.09 - 2026.02)
